@@ -54,7 +54,7 @@ ScaleX turbocharges your old, blurry, or just plain sad-looking photos right fro
 Get ready for an install party! 🥳
 1.  **Yoink the Code!**
     ```bash
-    git clone https://github.com/Md-Siam-Mia-Code/ScaleX.git
+    git clone https://github.com/Md-Siam-Mia-Man/ScaleX.git
     cd ScaleX
     ```
 2.  **Run the Magic Script!** ✨ (It does almost everything for you!)
@@ -75,7 +75,7 @@ Get ready for an install party! 🥳
 Feeling brave? Like to live dangerously? 🤠
 1.  **Clone It (Again, if you skipped above):**
     ```bash
-    git clone https://github.com/Md-Siam-Mia-Code/ScaleX.git
+    git clone https://github.com/Md-Siam-Mia-Man/ScaleX.git
     cd ScaleX
     ```
 2.  **Conda Cave:**
@@ -161,7 +161,7 @@ python inference_scalex.py --help
 
 ## 🤝 Join the Fun! (Contributing)
 Got ideas? Found a 🐛? Want to add your own sparkle? ✨ Contributions are super welcome!
-Check the [issues page](https://github.com/Md-Siam-Mia-Code/ScaleX/issues). Or just fork & send a Pull Request!
+Check the [issues page](https://github.com/Md-Siam-Mia-Man/ScaleX/issues). Or just fork & send a Pull Request!
 
 1.  🍴 Fork it!
 2.  🌿 New Branch (`git checkout -b feature/SuperCoolThing`)
